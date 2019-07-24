@@ -97,7 +97,7 @@ Artificial Intelligence A Modern Approach by Stuart J. Russell and Peter Norvig
   - unsupervised learning;
   - reinforcement learning.
   
-Основна ідея навчання з підкріпленням: побудова відображення історії $$X \leftarrow A $$ стан у простір дій.
+Основна ідея навчання з підкріпленням: побудова відображення історії $ X \leftarrow A $ стан у простір дій.
 
 ## Основні рушійні причини
 
